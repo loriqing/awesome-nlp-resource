@@ -234,8 +234,10 @@ Table of Contents
 - [SciCite](https://github.com/allenai/scicite) A new large dataset of citation intent from *Structural Scaffolds for Citation Intent Classification in Scientific Publications*
 - [ACL-ARC](https://github.com/allenai/scicite) A dataset of citation intents in the computational linguistics domain (ACL-ARC) introduced by *Measuring the Evolution of a Scientific Field through Citation Frames*.
 - [GASP](https://github.com/ART-Group-it/GASP) The dataset consists of list of cited abstracts associated with the corresponding source abstract. The goal is to generete the abstract of a target paper given the abstracts of cited papers.
-
+- [SemEval2017 task10](https://scienceie.github.io/resources.html)It consists of 500 journal articles evenly distributed among the domains Computer Science, Material Sciences and Physics.Three types of documents are provided: plain text documents with sampled paragraphs, brat .ann standoff documents with annotations for those paragraphs and .xml documents with the original full article text. 
+- [SemEval2018 task7](https://lipn.univ-paris13.fr/~gabor/semeval2018task7/)The purpose of the task is to automatically iden- tify relevant domain-specific semantic relations in a corpus of scientific publications.
 <span id="other">Other</span>
+- [PeerRead](https://github.com/allenai/PeerRead)PearRead is a dataset of scientific peer reviews available to help researchers study this important artifact. The dataset consists of over 14K paper drafts and the corresponding accept/reject decisions in top-tier venues including ACL, NIPS and ICLR, as well as over 10K textual peer reviews written by experts for a subset of the papers.
 ----
 
 - [QA-SRL](https://dada.cs.washington.edu/qasrl/) This dataset uses question-answer pairs to model verbal predicate-argument structure. The questions start with wh-words (Who, What, Where, What, etc.) and contains a verb predicate in the sentence; the answers are phrases in the sentence.
